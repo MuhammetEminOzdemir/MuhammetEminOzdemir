@@ -60,7 +60,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetEminOzdemir&theme=buefy&layout=compact" />
 </a>
 
-
 <h3> &nbsp;-CV Turkish-</h3>
 https://drive.google.com/file/d/1pmofPZ9Mzhgjgro32ZkA7f_E_9ol08En/view?usp=sharing
 <br>
