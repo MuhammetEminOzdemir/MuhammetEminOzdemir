@@ -54,10 +54,10 @@
 </p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedEminOzdemir&show_icons=true&locale=tr&layout=compact" alt="MuhammedEminOzdemir" /></p>
-
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=MuhammedEminOzdemir&show_icons=true&theme=gradient)
+<a href="https://github.com/MuhammetEminOzdemir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammetEminOzdemir&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetEminOzdemir&theme=buefy&layout=compact" />
+</a>
 
 
 <h3> &nbsp;-CV Turkish-</h3>
