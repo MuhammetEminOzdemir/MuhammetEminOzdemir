@@ -19,6 +19,7 @@
 - Back-End Developer: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
   
 - Data Science & Artificial intelligence:  &nbsp;
