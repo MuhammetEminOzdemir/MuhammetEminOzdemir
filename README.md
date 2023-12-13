@@ -3,8 +3,8 @@
 ### Hi I am Muhammed Emin Özdemir 👋
 
 
-- I am a Computer Engineer and  I am working in the field of Data Science, Artificial intelligence, FullStack developer.<br>
-- I am currently developing projects on data science machine learning, deep learning and web technologies.<br>
+- I am a Computer Engineer and  I am working in the field of Data Science, Artificial intelligence, <br>
+- I am currently developing projects on data science machine learning, deep learning <br>
 
 
 <h3> 💻 &nbsp;Known technologies</h3>
