@@ -50,10 +50,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetEminOzdemir&theme=buefy&layout=compact" />
 </a>
 
-<h3> &nbsp;-CV Turkish-</h3>
-https://drive.google.com/file/d/1pmofPZ9Mzhgjgro32ZkA7f_E_9ol08En/view?usp=sharing
-<br>
-
-<h3> &nbsp;-CV English-</h3>
-https://drive.google.com/file/d/1JZrgJOrtaWn9T6WE8_oWqrFY1Zt4Mer7/view?usp=sharing
-![image](https://github.com/MuhammetEminOzdemir/MuhammetEminOzdemir/assets/80462839/4b5b3f29-086e-4574-8224-a5ba6c7a8026)
